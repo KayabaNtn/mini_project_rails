@@ -44,4 +44,14 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
+
+  # Debugging
+  gem "pry-byebug"
+  gem "pry-rails"
+
+  # Convention
+  gem "rubocop", require: false
+  gem "rubocop-performance"
+  gem "rubocop-rspec"
+  gem "rubocop-rake"
 end
