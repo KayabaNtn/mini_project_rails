@@ -54,4 +54,17 @@ group :development, :test do
   gem "rubocop-performance"
   gem "rubocop-rspec"
   gem "rubocop-rake"
+
+  # Test
+  gem "rspec"
+  gem "rspec-rails"
+  gem "factory_bot_rails"
+  gem "database_cleaner"
+  gem "faker", git: "https://github.com/faker-ruby/faker.git", branch: "main"
+end
+
+group :test do
+  # Use system testing
+  gem "shoulda-matchers", "~> 3.1"
+  gem "simplecov", require: false
 end
