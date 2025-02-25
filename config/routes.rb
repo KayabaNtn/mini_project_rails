@@ -5,4 +5,14 @@ Rails.application.routes.draw do
     sessions: "api/v1/users/sessions",
     registrations: "api/v1/users/registrations"
   }
+
+  namespace :api do
+    namespace :v1 do
+      get "posts/index"
+      get "posts/show"
+      post "posts/create"
+      put "posts/update"
+      delete "posts/destroy"
+    end
+  end
 end

@@ -1,8 +1,202 @@
 {
   "RSpec": {
     "coverage": {
+      "/home/nhatnt/Project/mini_project/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/home/nhatnt/Project/mini_project/app/controllers/application_controller.rb": {
         "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/controllers/api/v1/posts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/controllers/concerns/common_response.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/serializers/post_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/nhatnt/Project/mini_project/app/controllers/api/v1/users/registrations_controller.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/nhatnt/Project/mini_project/app/controllers/api/v1/users/sessions_controller.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -29,26 +223,17 @@
         ],
         "branches": {}
       },
-      "/home/nhatnt/Project/mini_project/app/models/application_record.rb": {
+      "/home/nhatnt/Project/mini_project/app/serializers/user_serializer.rb": {
         "lines": [
           0,
           0,
-          0
-        ],
-        "branches": {}
-      },
-      "/home/nhatnt/Project/mini_project/app/models/user.rb": {
-        "lines": [
-          0,
           null,
-          null,
-          0,
           0,
           0
         ],
         "branches": {}
       }
     },
-    "timestamp": 1740411587
+    "timestamp": 1741015889
   }
 }
